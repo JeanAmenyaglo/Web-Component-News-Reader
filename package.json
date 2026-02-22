@@ -1,0 +1,17 @@
+{
+  "name": "assignment-01-1252",
+  "description": "Assignment 01 for 1252",
+  "type": "module",
+  "scripts": {
+    "build": "vite build src --outDir ../dist",
+    "eslint": "eslint --stats js/*.js ",
+    "start": "vite serve src"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@stylistic/eslint-plugin": "^4.2.0",
+    "eslint": "^10.0.1",
+    "globals": "^16.0.0",
+    "vite": "^6.2.2"
+  }
+}

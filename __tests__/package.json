@@ -1,0 +1,30 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Automated tests for assignment 01",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ../src/ -c-1 --silent",
+    "play:app": "playwright test tests/app.spec.js  --workers=1 --reporter=list",
+    "e2e": "start-test start 8080 play:app",
+    "test": "vitest tests/*.test.js",
+    "test:dashboard": "vitest tests/news-dashboard.test.js",
+    "test:headlines": "vitest tests/news-headlines.test.js",
+    "test:source-picker": "vitest tests/news-source-picker.test.js",
+    "test:news-api": "vitest tests/news-api.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0",
+    "happy-dom": "^20.0.10",
+    "jsdom": "^27.2.0",
+    "vitest": "^4.0.13"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "start-server-and-test": "^2.1.2"
+  }
+}

@@ -1,0 +1,1643 @@
+{
+  "sources": [
+    {
+      "id": "the-globe-and-mail",
+      "name": "The Globe And Mail",
+      "description": "The Globe and Mail offers the most authoritative news in Canada, featuring national and international news.",
+      "url": "https://www.theglobeandmail.com",
+      "category": "general",
+      "language": "en",
+      "country": "ca"
+    },
+    {
+      "id": "breitbart-news",
+      "name": "Breitbart News",
+      "description": "Syndicated news and opinion website providing continuously updated headlines to top news and analysis sources.",
+      "url": "http://www.breitbart.com",
+      "category": "general",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "cbc-news",
+      "name": "CBC News",
+      "description": "CBC News is the division of the Canadian Broadcasting Corporation responsible for the news gathering and production of news programs on the corporation's English-language operations, namely CBC Television, CBC Radio, CBC News Network, and CBC.ca.",
+      "url": "http://www.cbc.ca/news",
+      "category": "general",
+      "language": "en",
+      "country": "ca"
+    },
+    {
+      "id": "google-news-ca",
+      "name": "Google News (Canada)",
+      "description": "Comprehensive, up-to-date Canada news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com",
+      "category": "general",
+      "language": "en",
+      "country": "ca"
+    }
+  ],
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katelyn Chedraoui",
+      "title": "Sora 2 App Is Open to All in the US and Others ... No Invite Code Required",
+      "description": "The wait is over for anyone in the US, Canada, Japan and South Korea who couldn't get their hands on an invite code to OpenAI's viral Sora 2 app.",
+      "url": "https://www.cnet.com/tech/services-and-software/sora-2-app-is-now-open-to-all-in-the-us-no-invite-code-needed/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2f5135197f4e0bbc40dea8bee3b70bcfab824666/hub/2025/10/16/f4e4d2b9-f4ae-4741-96bb-7735c3f7013c/sora-app-gettyimages-2239565353.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T09:00:00Z",
+      "content": "OpenAI's new Sora app takes AI and social media to a whole new level. The creators of ChatGPT launched a social media platform where every video is AI-generated -- no ads, no influencers, no reality … [+3242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer: Stream Liverpool vs. Aston Villa Live From Anywhere",
+      "description": "Arne Slot's Reds look to end a poor run as they host a resurgent Villa.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-aston-villa-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/995f94e5b708990e50954d0befe2962ef0ecb086/hub/2025/10/31/d9d1d928-51c9-4add-82b8-3b7dcb891dbd/gettyimages-2243426216.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T17:00:04Z",
+      "content": "When to watch Liverpool vs. Aston Villa\r\n<ul><li>Saturday, Nov. 1 at 4 p.m. ET (1 p.m. PT).</li></ul>Where to watch\r\n<ul><li>Liverpool vs. Aston Villa will air in the US on USA Network.</li></ul>\r\nLi… [+5230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer: Stream Tottenham vs. Chelsea Live From Anywhere",
+      "description": "Two sides looking to get back to winning ways face off in London.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-chelsea-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e324b56f172f0b1e6e1aa384494334544043344c/hub/2025/10/31/4772c857-6eb7-44a5-9e34-ec2e47042c05/gettyimages-2240087525.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T14:30:03Z",
+      "content": "When to watch Tottenham vs. Chelsea\r\n<ul><li>Saturday, Nov. 1 at 1:30 p.m. ET (10:30 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Tottenham Hotspur vs. Chelsea will air in the US on Peacock Premium.</l… [+5210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer: Livestream Burnley vs. Arsenal From Anywhere",
+      "description": "The league leaders travel to Turf Moor looking to beat a Clarets team that's aiming for three wins in a row.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-burnley-vs-arsenal-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e6bfed248c8550f941364c7e1e8796e0de085560/hub/2025/10/31/ddedf030-593d-4b26-881c-0f9f4bbc2758/gettyimages-2244028404.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T12:00:09Z",
+      "content": "When to watch Burnley vs. Arsenal\r\n<ul><li>Saturday, Nov. 1 at 11 a.m. ET (8 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Burnley vs. Arsenal will air in the US on USA Network.</li></ul>\r\nArsenal have … [+5864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Aaron Pruner",
+      "title": "'The Chair Company': When You Can Watch Episode 4",
+      "description": "The fourth episode is titled \"Bahld Harmon birthplace (disputed).\"",
+      "url": "https://www.cnet.com/tech/services-and-software/the-chair-company-when-you-can-watch-episode-4/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/6a9c3bbecb4ff36921a98ccd167e3092b7d2ecfe/hub/2025/10/30/a660aae1-0b03-4d92-b9ec-d4635f505f9e/chair-company-torrey-hanson-tim-robinson-will-price.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T16:00:03Z",
+      "content": "The Chair Company stars Tim Robinson as Ron Trosper, a mild-mannered businessman who, after an incident at work, begins to suspect that a deep conspiracy is to blame. \r\nOver the past decade, Robinson… [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "stweedie@businessinsider.com (Steven Tweedie)",
+      "title": "Canadians take to social media to debate their prime minister's apology to Trump over anti-tariffs ad",
+      "description": "The r/Canada subreddit lit up with over 1,200 comments after Carney said he apologized to Trump over the ad, which had derailed trade talks.",
+      "url": "https://www.businessinsider.com/canada-prime-minister-carney-apology-trump-tariffs-ad-canadian-reacttion-2025-11",
+      "urlToImage": "https://i.insider.com/69063af0599d46a4ccc14b77?width=1200&format=jpeg",
+      "publishedAt": "2025-11-01T21:59:31Z",
+      "content": "Ontario's premier didn't apologize for airing an anti-tariffs ad that angered President Donald Trump but Canada's prime minister did. Now, Canadians are using social media to process the awkward situ… [+4181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Heidi Ulrich",
+      "title": "Recovering Data from the OceanGate depths",
+      "description": "When the files on the Titan submersible disaster were published, most people skimmed for drama. Hackers, however, would likely zoom in on the hardware autopsy. [Scott Manley] actually did this. …read more",
+      "url": "https://hackaday.com/2025/10/31/recovering-data-from-the-oceangate-depths/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/oceangate_footage_1200.jpg",
+      "publishedAt": "2025-11-01T02:00:57Z",
+      "content": "When the files on the Titan submersible disaster were published, most people skimmed for drama. Hackers, however, would likely zoom in on the hardware autopsy. [Scott Manley] actually did this. He fa… [+829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alex Kimani",
+      "title": "Indian Refiners Pivot Away From Russian Oil",
+      "description": "Indian refiners are shunning Russian oil due to fresh U.S. sanctions, leading to a pivot towards costlier alternatives and potential shifts in global oil...",
+      "url": "https://finance.yahoo.com/news/indian-refiners-pivot-away-russian-230000877.html",
+      "urlToImage": "https://media.zenfs.com/en/oilprice.com/9f64a9ce2f066034be3594ef812aeae8",
+      "publishedAt": "2025-11-01T23:00:00Z",
+      "content": "Oil prices were little changed in the current week, with bearish sentiment still ruling the markets after the U.S. agreed to a one-year truce to its trade war with China, despite reports that Indian … [+4918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Alexander Cope",
+      "title": "Silent Hill 2 gets an ESRB Rating for Xbox Series X|S — Could this be a sign we'll finally see this awesome horror remake on Xbox?",
+      "description": "We have recently discovered that the Entertainment Software Rating Board has given the critically acclaimed Silent Hill 2 remake an Xbox Series X|S rating, implying it may soon be heading for Microsoft's home consoles.",
+      "url": "https://www.windowscentral.com/gaming/silent-hill-2-gets-an-esrb-rating-for-xbox-series-x-s",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oZdiA7X7zdazgLQnyWYLJ5-2048-80.jpg",
+      "publishedAt": "2025-11-01T13:00:00Z",
+      "content": "Bloober Team's Silent Hill 2 remake, which defied expectations to critical acclaim and commercial success, may soon be heading for Xbox consoles in the future.\r\nThis is because the ESRB, an organizat… [+4479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Katherine Kornei",
+      "title": "A Flash, a Boom, a New Microbe Habitat",
+      "description": "After an asteroid struck Finland long ago, microscopic life colonized the impact site within a few million years, new research reveals.",
+      "url": "https://www.space.com/astronomy/asteroids/a-flash-a-boom-a-new-microbe-habitat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LQyBu3L8SdUFoXn9xvqBPY-1600-80.png",
+      "publishedAt": "2025-11-01T13:00:00Z",
+      "content": "This article was originally published at Eos.\r\n The publication contributed the article to Space.com's Expert Voices: Op-Ed &amp; Insights\r\n. \r\nA sizable asteroid impact \r\ngenerally obliterates anyth… [+5941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "staff@bgr.com (Christine Persaud)",
+      "title": "How To Use A VPN On An Amazon Fire TV Stick (And Why You Should)",
+      "description": "Not only is it possible to use a VPN on an Amazon Fire TV Stick, but there are plenty of great reasons to do so, including watch content from abroad.",
+      "url": "https://www.bgr.com/2007836/how-to-use-vpn-amazon-fire-stick-guide/",
+      "urlToImage": "https://www.bgr.com/img/gallery/how-to-use-a-vpn-on-an-amazon-fire-tv-stick-and-why-you-should/l-intro-1761347124.jpg",
+      "publishedAt": "2025-11-01T17:17:00Z",
+      "content": "There are various scenarios when using a VPN on an Amazon Fire Stick like the Fire TV Stick 4K Max could be useful. If you don't like being hit with a barrage of targeted ads, using a VPN while strea… [+977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "staff@bgr.com (Talia Roepel)",
+      "title": "Shein Might Be Cheap, But Is It Legit?",
+      "description": "Shein's low prices attract millions of shoppers, but behind the deals are questions about quality, ethics, and whether the brand is truly legit.",
+      "url": "https://www.bgr.com/2007841/is-shein-legit/",
+      "urlToImage": "https://www.bgr.com/img/gallery/shein-might-be-cheap-but-is-it-legit/l-intro-1761473511.jpg",
+      "publishedAt": "2025-11-01T21:17:00Z",
+      "content": "Since Shein is not accredited by the BBB, it has not gone through the process to meet the organization's eight Standards for Trust. These standards include honest advertising, transparent business po… [+1193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cracked.com"
+      },
+      "author": "JM McNab",
+      "title": "‘Magnolia’s Oscar-Nominated Song Was Unbelievably About A Kids in the Hall Cast Member",
+      "description": "Why aren’t there more romantic songs about sketch comedians?",
+      "url": "https://www.cracked.com/article_48979_magnolias-oscar-nominated-song-was-unbelievably-about-a-kids-in-the-hall-cast-member.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/3/3/5/1396335.jpg",
+      "publishedAt": "2025-11-01T00:00:00Z",
+      "content": "GFTPaul Thomas Andersons Magnolia gave us raining frogs, Tom Cruise as an incel guru and a banger of a soundtrack by Aimee Mann. Her songs were so catchy even the characters couldnt help but sing alo… [+2107 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Dodgers win Game 6 against Blue Jays in World Series to force decider",
+      "description": "Los Angeles Dodgers send the World Series to a decisive seventh game after defeating Toronto Blue Jays in Canada.",
+      "url": "https://www.aljazeera.com/sports/2025/11/1/dodgers-win-game-6-against-blue-jays-in-world-series-to-force-decider",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25305051809619-1761972202_0d2fe2-1761973385.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-11-01T05:21:47Z",
+      "content": "The Los Angeles Dodgers kept alive on Friday their hopes of becoming Major League Baseballs (MLB) first repeat champion in 25 years, with a 3-1 victory over the Toronto Blue Jays that pushed the Worl… [+2966 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
+      "description": "Canadian PM says anti-tariff ad featuring Ronald Reagan 'offended' Trump, who has since cut off trade talks with Canada.",
+      "url": "https://www.aljazeera.com/news/2025/11/1/canadas-carney-says-he-apologised-to-trump-over-reagan-anti-tariff-ad",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp_6906124c62b5-1762005580.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-11-01T14:39:03Z",
+      "content": "Canadas Prime Minister Mark Carney says he apologised to Donald Trump over an anti-tariff advertisement that has drawn the United States presidents ire and disrupted trade talks between the two count… [+2280 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Alastair McCready",
+      "title": "G7 slams Russian attacks on energy as Ukraine decries ‘nuclear terrorism’",
+      "description": "The group said Russian attacks are inflicting 'devastating social, environmental and economic consequences' on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2025/11/1/g7-slams-russian-attacks-on-energy-as-ukraine-decries-nuclear-terrorism",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-10-28T110530Z_1682149106_RC2INGABJWU6_RTRMADP_3_UKRAINE-CRISIS-GAS-ZELENSKIY-1761957273.jpg?resize=1200%2C630",
+      "publishedAt": "2025-11-01T02:47:10Z",
+      "content": "The energy ministers of the Group of Seven nations (G7) have issued a joint statement condemning Russias attacks on Ukraines energy system, after authorities in Kyiv described Moscows most recent bar… [+3625 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Manasi Pathak",
+      "title": "FIFA U-17 World Cup Qatar 2025: What to know about the tournament",
+      "description": "Key dates, teams, venues, players, tournament format, favourites and tickets ahead of the 20th edition of the event.",
+      "url": "https://www.aljazeera.com/sports/2025/11/1/fifa-u-17-world-cup-qatar-2025-what-to-know-about-the-tournament",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/GettyImages-2199853470-1760510797_68a7e7-1760520426.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-11-01T07:41:35Z",
+      "content": "The next generation of football stars will showcase their talent on the biggest stage when the FIFA U-17 World Cup 2025 kicks off in Qatar on Monday.\r\nWith an expanded field of 48 teams, the tourname… [+6528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCWorld"
+      },
+      "author": "LiberNovo",
+      "title": "The future of sitting: How the LiberNovo Omni chair is transforming the lives of creators and gamers",
+      "description": "In a world where “always online” has become the norm, millions of programmers, designers, and gamers spend more time in their chairs than in their beds. The result? Chronic back and neck pain, muscle fatigue, and long-term spinal issues—all symptoms of a life…",
+      "url": "https://www.pcworld.com/article/2952757/the-future-of-sitting-how-the-libernovo-omni-chair-is-transforming-the-lives-of-creators-and-gamers.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/11/LiberNovo-Chair-Woman-office-7023.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2025-11-01T15:00:00Z",
+      "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIn a world where “always online” has become the norm… [+4842 chars]"
+    },
+    {
+      "source": {
+        "id": "liberation",
+        "name": "Libération"
+      },
+      "author": "#MetooIran, Queers and feminists for Iran Liberation, Sepideh Farsi, réalisatrice et plusieurs personnalités du monde de la culture",
+      "title": "En Iran, comme ailleurs, les violences sexuelles ne doivent plus rimer avec impunité",
+      "description": "Alors que les accusations de viol contre la star du cinéma iranien, Pejman Jamshidi, secouent le pays, un collectif de personnalités du monde de la culture, dont Sepideh Farsi, Judith Godrèche et Leïla Slimani, salue la résistance des victimes face à une just…",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/en-iran-comme-ailleurs-les-violences-sexuelles-ne-doivent-plus-rimer-avec-impunite-20251101_PBIHICWKHNHUVKLZD6YBPW33UY/",
+      "urlToImage": "https://www.liberation.fr/resizer/v2/LD4G2RYKO5FLZIZ3LSDIBPX5YI.jpg?auth=6189a6939384ef9098ffd584fa78fbf56b1c3df0d62b821fcd0d5f14025a9ecb&quality=70&width=1200&height=630&focal=3020%2C1544",
+      "publishedAt": "2025-11-01T10:51:00Z",
+      "content": "Le 21 octobre 2025, larrestation de lexfootballeur devenu star du cinéma iranien, Pejman Jamshidi, secoue lIran. Accusé de viol par une actrice de 21 ans, il est dabord placé en détention provisoire … [+1040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "GTA 6 developer Rockstar accused of union-busting after it fires dozens of developers",
+      "description": "Grand Theft Auto 6 developer Rockstar Games has been accused of union-busting after terminating the contracts of 30-40 staff, all of whom were purportedly involved in union activities. Rockstar claims they were fired for gross misconduct. Read more",
+      "url": "https://www.eurogamer.net/gta-6-developer-rockstar-accused-of-union-busting-after-it-fires-dozens-of-developers",
+      "urlToImage": "https://assetsio.gnwcdn.com/Jason_and_Lucia_01_landscape.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2025-11-01T16:36:29Z",
+      "content": "Grand Theft Auto 6 developer Rockstar Games has been accused of union-busting after terminating the contracts of 30-40 staff, all of whom were purportedly involved in union activities. Rockstar claim… [+1196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express Web Desk",
+      "title": "Canadian PM Carney says he told Ontario’s premier not to run anti-tariff ad that upset Trump",
+      "description": "Carney said he apologised to Trump during a dinner at the APEC summit, acknowledging that the president was “offended” by the ad",
+      "url": "https://indianexpress.com/article/world/canadian-pm-carney-says-he-told-ontarios-premier-not-to-run-anti-tariff-ad-that-upset-trump-10340739/",
+      "urlToImage": "https://images.indianexpress.com/2025/10/Trump-Carney.jpg",
+      "publishedAt": "2025-11-01T18:14:53Z",
+      "content": "Canadian Prime Minister Mark Carney revealed that he had urged Ontario Premier Doug Ford not to air an anti-tariff advertisement in the US that provoked President Donald Trump to end trade talks with… [+2246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Le HuffPost"
+      },
+      "author": "Maëlle Roudaut avec AFP",
+      "title": "États-Unis/Canada : Les excuses du Premier ministre canadien à Trump, vexé par une pub de l’Ontario",
+      "description": "Le Premier ministre canadien Mark Carney explique avoir échangé avec Donald Trump lors d’un dîner en marge du sommet de l’Apec, en Corée du Sud.",
+      "url": "https://www.huffingtonpost.fr/international/video/etats-unis-canada-les-excuses-du-premier-ministre-canadien-a-trump-vexe-par-une-pub-de-l-ontario_256651.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/11/01/0/0/1920/1080/1820/1023/75/0/168472f_upload-1-j2obgh6wrmog-design-sans-titre-5.jpg",
+      "publishedAt": "2025-11-01T07:50:54Z",
+      "content": "INTERNATIONAL - Des excuses pour apaiser les tensions. Le Premier ministre canadien Mark Carney a déclaré ce samedi 1er novembre sêtre excusé auprès de Donald Trump après la diffusion dune publicité … [+2260 chars]"
+    },
+    {
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "author": "di Giovanna Mancini",
+      "title": "Con i dazi nuove opportunità sui mercati chiave per l’Italia",
+      "description": "Le tariffe favoriscono la sigla di accordi commerciali con Paesi emergenti. L’aumento dei prezzi sui prodotti cinesi rende più competitivi quelli italiani",
+      "url": "https://www.ilsole24ore.com/art/con-dazi-nuove-opportunita-mercati-chiave-l-italia-AH5hOQTD",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/11/01/Immagini/Ritagli/Porto-Genova-AdobeStock_284990377-U81854555265Rop-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-11-01T09:02:01Z",
+      "content": "Ascolta la versione audio dell'articolo\r\nChe i dazi americani non abbiano avuto (almeno finora) limpatto da molti temuto sulla tenuta dellexport italiano è un fatto osservato da molti analisti e conf… [+2772 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Jacob Jones",
+      "title": "How to watch Brighton vs Leeds: Premier League 2025/26 streams, TV channels, kick-off time",
+      "description": "We'll show you all the ways you can watch Brighton vs Leeds in the 2025/26 Premier League as Georginio Rutter faces his former club for the first time since departing last season.",
+      "url": "https://www.techradar.com/how-to-watch/football/brighton-vs-leeds-premier-league-2025-26",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MHmGVzVdgLTebSfPwrPAYC-2560-80.jpg",
+      "publishedAt": "2025-11-01T13:00:00Z",
+      "content": "<ul><li>Brighton vs Leeds: Saturday, November 1</li><li>Time: 3pm BST / 11am ET / 12am AEST (Nov. 2)</li><li>Best Stream: Peacock (US)</li><li>Access your usual streaming services with NordVPN (save … [+4046 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Aatif Sulleyman",
+      "title": "How to watch Rugby League Ashes Test 2: free streams for 2025 England vs Australia series",
+      "description": "How to watch Rugby League Ashes Test 2 live streams from anywhere, with Hill Dickinson Stadium hosting this vital 2025 England vs Australia series clash.",
+      "url": "https://www.techradar.com/how-to-watch/sport/how-to-watch-rugby-league-ashes-test-2-free-streams-for-2025-england-vs-australia-series",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xHcfyxqFgT8jP2nX9skHC8-2560-80.jpg",
+      "publishedAt": "2025-11-01T11:00:00Z",
+      "content": "The Rugby League Ashes series 22 years in the making could be done and dusted in the shortest possible time. Kangaroos debutants Reece Walsh and Mark Nawaqanitawase annihilated England in the opener,… [+4256 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Can IV cocktails cure hangovers or boost immunity?",
+      "description": "Intravenous drips are a booming business in wellness spas, where customers are told that pricey IV cocktails can boost their immunity or combat hangovers. But do they live up to the hype? Medical experts warn are patchwork regulations, a range of possible hea…",
+      "url": "https://www.cbc.ca/news/health/iv-drip-therapy-regulations-9.6955383",
+      "urlToImage": "https://i.cbc.ca/ais/becfc46b-3ff1-465d-8e8a-2a0b42a8b88c,1761592364030/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C452%2C3826%2C2152%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T08:00:00Z",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by … [+8344 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "My country has been 'ripped apart,' Jamaican farm worker says as people in Niagara call out for help",
+      "description": "Rohan Thompson was keeping a close eye on Melissa from St. Catharines, Ont., where he works as a temporary farm worker, as the Category 5 hurricane approached his homeland earlier this week.",
+      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-disaster-relief-hurricane-melissa-9.6962253",
+      "urlToImage": "https://i.cbc.ca/ais/fb05a246-c7d8-4fef-88e9-d8a3a0c3b574,1762002420722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4154%2C2336%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T08:00:00Z",
+      "content": "Rohan Thompson was keeping a close eye on Melissa from St. Catharines, Ont., where he works as a temporary farm worker, as the Category 5 hurricane approached his homeland earlier this week.\r\nThe sea… [+6773 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "How much of a role did climate change play with Hurricane Melissa?",
+      "description": "Millions of people across the Caribbean are trying to deal with the devastating effects of Hurricane Melissa, which tore through the region this week, slamming into Jamaica as a Category 5 storm. Now, several groups have done a rapid analysis to determine wha…",
+      "url": "https://www.cbc.ca/news/science/hurricane-melissa-climate-change-9.6960554",
+      "urlToImage": "https://i.cbc.ca/ais/fa41c082-3508-4705-b172-cf746f756752,1761854107929/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C186%2C2805%2C1577%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T08:00:00Z",
+      "content": "Millions of people across the Caribbean are trying to deal with the devastating effects of Hurricane Melissa, which tore through the region this week.\r\nLike so many storms of late, Melissa underwent … [+5041 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Suzanne Somers's Canadian husband made an 'AI twin' of the late actress. Is that wrong?",
+      "description": "A Canadian’s plan to bring his late celebrity wife back to life in AI form has raised a host of ethical questions about prolonging human existence in the digital universe. Alan Hamel, a Canadian entertainer and longtime TV personality, recently said he’s crea…",
+      "url": "https://www.cbc.ca/news/entertainment/suzanne-somers-ai-twin-9.6959300",
+      "urlToImage": "https://i.cbc.ca/ais/5724441d-adb2-4a7e-9d9a-5d86a778b97f,1761779802166/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C3500%2C1968%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T08:00:00Z",
+      "content": "A Canadians plan to bring his late celebrity wife back to life in AI form has raised a host of ethical questions about prolonging human existence in the digital universe.\r\nAlan Hamel, a Canadian ente… [+5651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Felipe Schrieberg, Senior Contributor, \n Felipe Schrieberg, Senior Contributor\n https://www.forbes.com/sites/felipeschrieberg/",
+      "title": "New USA And Canada Whiskey Releases - October 2025",
+      "description": "Here’s as thorough a list as possible covering new whiskeys released across the last month in the USA and Canada. It includes well-known brands and more niche releases.",
+      "url": "https://www.forbes.com/sites/felipeschrieberg/2025/10/31/new-usa-and-canada-whiskey-releasesoctober-2025/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6904bd1703d57b6504791dae/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T03:01:52Z",
+      "content": "The Buffalo Trace Antique Collection 2025\r\nBuffalo Trace\r\nAfter spending a significant amount of time trying to find a cohesive list of new whisky (and whiskey) releases from this month, I was frustr… [+5883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Casey Murphy, Contributor, \n Casey Murphy, Contributor\n https://www.forbes.com/sites/caseymurphy/",
+      "title": "Kós And Douglass Dominate 2025 World Aquatics Swimming World Cup",
+      "description": "Hubert Kós and Kate Douglass win the 2025 World Aquatics Swimming World Cup, breaking world records and earning over $180,000 each.",
+      "url": "https://www.forbes.com/sites/caseymurphy/2025/10/31/ks-and-douglass-dominate-2025-world-aquatics-swimming-world-cup/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690543a28ac135226b526516/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T00:37:49Z",
+      "content": "TORONTO, CANADA - OCTOBER 25: Kate Douglass of the United States and Hubert Kos of Hungary pose for a photo with the Swimming World Cup Trophy after being named champions during day three of the Worl… [+4156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Felipe Schrieberg, Senior Contributor, \n Felipe Schrieberg, Senior Contributor\n https://www.forbes.com/sites/felipeschrieberg/",
+      "title": "New Japan And Rest Of World Whisky Releases - October 2025",
+      "description": "New whiskies from Japan and the rest of the world released last month include artistic collaborations, the return of a classic, and instant collectables.",
+      "url": "https://www.forbes.com/sites/felipeschrieberg/2025/10/31/new-japan-and-rest-of-world-whisky-releasesoctober-2025/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690577b4f958b79861061995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T03:01:35Z",
+      "content": "The Hibiki Artist Collaboration whiskies featuring art from painter Hiroshi Senju.\r\nHibiki\r\nAfter spending a significant amount of time trying to find a cohesive list of new whisky (and whiskey) rele… [+4172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kirk Ogunrinde, Former Contributor, \n Kirk Ogunrinde, Former Contributor\n https://www.forbes.com/sites/kirkogunrinde/",
+      "title": "Northern Lights Forecast: These States Could See Aurora Borealis On Saturday",
+      "description": "These states are within Saturday’s viewing line.",
+      "url": "https://www.forbes.com/sites/kirkogunrinde/2025/11/01/northern-lights-forecast-these-states-could-see-aurora-borealis-on-saturday/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690633305e2923e3d1c239be/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T16:20:14Z",
+      "content": "A group of states along the U.S.-Canadian border could see the northern lights Saturday night, according to a forecast from the National Oceanic and Atmospheric Administration.\r\nKIRUNA, SWEDEN - MARC… [+2627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Felipe Schrieberg, Senior Contributor, \n Felipe Schrieberg, Senior Contributor\n https://www.forbes.com/sites/felipeschrieberg/",
+      "title": "New Scotland And Ireland Whisky Releases - October 2025",
+      "description": "New whiskies from Scotland and Ireland released across last month include both big name releases such as the 2025 Diageo Special Releases and lesser-known gems.",
+      "url": "https://www.forbes.com/sites/felipeschrieberg/2025/10/31/new-scotland-and-ireland-whisky-releasesoctober-2025/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6904c23003d57b6504791db0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T03:02:19Z",
+      "content": "The Diageo Special Releases 2025 - Horizons Unbound Collection\r\nDiageo\r\nAfter spending a significant amount of time trying to find a cohesive list of new whisky (and whiskey) releases for this last m… [+6011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Brett Owens, Contributor, \n Brett Owens, Contributor\n https://www.forbes.com/sites/brettowens/",
+      "title": "The Fed Is Juicing These 3 Massive Monthly Dividends",
+      "description": "The Fed is cutting, and that’s bullish for preferred stocks and their big payouts. Let’s look at a trio yielding up to 9.8% that will benefit from every ease.",
+      "url": "https://www.forbes.com/sites/brettowens/2025/11/01/the-fed-is-juicing-these-3-massive-monthly-dividends/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69036d90395ca6b8fd2ccdde/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T13:49:00Z",
+      "content": "WASHINGTON, DC - OCTOBER 29: Federal Reserve Chair Jerome Powell speaks during a news conference following a meeting of the Federal Open Market Committee at the Federal Reserve on October 29, 2025 in… [+6389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kelly Phillips Erb, Forbes Staff, \n Kelly Phillips Erb, Forbes Staff\n https://www.forbes.com/sites/kellyphillipserb/",
+      "title": "The Government Shutdown Rolls On Edition",
+      "description": "Plus: What’s open at the IRS, the fight over premium tax credits, guidance on OBBBA, Social Security increases, digital taxes and tariffs, Section 179 expenses and more.",
+      "url": "https://www.forbes.com/sites/tax-breaks/2025/11/01/the-government-shutdown-rolls-on-edition/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69051ecabc189aa8e0c885bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-11-01T14:00:00Z",
+      "content": "WASHINGTON, DC - OCTOBER 1: A sign indicating that the U.S. Capitol Visitor Center is closed due to the government shutdown, on October 1, 2025 in Washington, DC. Congress could not agree on a budget… [+19388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Jake Boxall-Legge",
+      "title": "Retro: Button's greatest F1 win - and how it changed wet races forever",
+      "description": "Four hours, four minutes, 37 seconds. The Canadian Grand Prix of 2011 is famed for two things: one, being Formula 1's longest-ever race (a record that will likely never be beaten), and two, Jenson Button's unlikely victory after falling to the back of the fie…",
+      "url": "https://www.autosport.com/f1/news/retro-buttons-greatest-f1-win-and-how-it-changed-wet-races-forever/10772982/",
+      "urlToImage": "https://cdn-7.motorsport.com/images/amp/0RrW9OB0/s6/jenson-button-mclaren-mp4-26-m.jpg",
+      "publishedAt": "2025-11-01T08:37:54Z",
+      "content": "Four hours, four minutes, 37 seconds. The Canadian Grand Prix of 2011 is famed for two things: one, being Formula 1's longest-ever race (a record that will likely never be beaten), and two, Jenson Bu… [+8676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "bloomberg.com",
+      "title": "Carney Says Canada Can’t Get China Tariffs Lifted Right Away",
+      "description": "",
+      "url": "https://biztoc.com/x/206c783ecf1426dc",
+      "urlToImage": "https://biztoc.com/cdn/206c783ecf1426dc_s.webp",
+      "publishedAt": "2025-11-01T08:42:00Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Nvidia hit $5 trillion market value? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused Apples strong ho… [+760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tinhte.vn"
+      },
+      "author": "no-reply@tinhte.vn (nhatminhngo), nhatminhngo",
+      "title": "Apple vừa có một quý Q4 2025 cực kỳ ấn tượng với hàng loạt kỉ lục doanh thu trên nhiều lĩnh vực.",
+      "description": "Apple vừa có một quý Q4 2025 cực kỳ ấn tượng với hàng loạt kỉ lục doanh thu trên nhiều lĩnh vực. \n\nTrong báo cáo tài chính quý này, Apple đặc biệt nhấn mạnh số lượng kỷ lục chưa từng có mà họ đạt được ở cả mức quý lẫn toàn bộ lịch sử công ty.",
+      "url": "https://tinhte.vn/thread/apple-vua-co-mot-quy-q4-2025-cuc-ky-an-tuong-voi-hang-loat-ki-luc-doanh-thu-tren-nhieu-linh-vuc.4070612/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2025/11/8883698_65601-137309-IMG-3029-xl.jpg",
+      "publishedAt": "2025-11-01T09:43:03Z",
+      "content": "Apple va có mt quý Q4 2025 cc k n tng vi hàng lot k lc doanh thu trên nhiu lnh vc. Trong báo cáo tài chính quý này, Apple c bit nhn mnh s lng k lc cha tng có mà h t c c mc quý ln toàn b lch s công ty… [+1169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Consequence.net"
+      },
+      "author": "Paolo Ragusa",
+      "title": "How to Get Tickets to Florence + the Machine’s 2026 Tour",
+      "description": "Florence + the Machine's 2026 Tour kicks off in April 2026. Learn how to get tickets and what else to know here.\nHow to Get Tickets to Florence + the Machine’s 2026 Tour\nPaolo Ragusa",
+      "url": "https://consequence.net/2025/11/florence-and-the-machine-2026-tour-how-to-get-tickets/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2025/10/florence-the-machine-2026-tour-how-to-buy.jpg",
+      "publishedAt": "2025-11-01T13:05:49Z",
+      "content": "Florence + The Machine have announced their 2026 “Everybody Scream” North American tour in support of their sixth studio album of the same name.\r\nThe arena tour kicks off April 8th in Minneapolis and… [+4295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Maham Fatima",
+      "title": "Mizuho Hikes Price Target on MasTec (MTZ) to $244, Maintains Outperform Rating Ahead of Q3 2025 Earnings",
+      "description": "MasTec Inc. (NYSE:MTZ) is one of the best NYSE stocks to buy and hold for the next decade. On October 28, Mizuho analyst Maheep Mandloi raised the firm’s...",
+      "url": "https://finance.yahoo.com/news/mizuho-hikes-price-target-mastec-022714406.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/m.73AlaJfcOERl_L8q1pYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6eaf5d213eeb2364046f1473eded6ae6",
+      "publishedAt": "2025-11-01T02:27:14Z",
+      "content": "MasTec Inc. (NYSE:MTZ) is one of the best NYSE stocks to buy and hold for the next decade. On October 28, Mizuho analyst Maheep Mandloi raised the firms price target on MasTec to $244 from $215 and m… [+1686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Daniel Kline",
+      "title": "Key Coca-Cola and Pepsi rival discontinued 4 soda flavors",
+      "description": "Dr Pepper has passed Pepsi to become the number-two-selling soda in the United States.Pepsi has fallen into third place.Dr Pepper is trying to grow its brand...",
+      "url": "https://www.thestreet.com/retail/key-coca-cola-and-pepsi-rival-discontinued-4-soda-flavors",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/1bdfa9faaa18ce1161f43efab52f3469",
+      "publishedAt": "2025-11-01T16:03:00Z",
+      "content": "<ul><li>Dr Pepper has passed Pepsi to become the number-two-selling soda in the United States.\r\n</li><li>Pepsi has fallen into third place.\r\n</li><li>Dr Pepper is trying to grow its brand by adding n… [+6444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Faizan Farooque",
+      "title": "Layoffs and a top exec out: what GM pullback on EVs means for you",
+      "description": "General Motors recently took its biggest step yet to address a slowing electric car industry, and it's not a minor one. GM has halted battery manufacturing...",
+      "url": "https://www.thestreet.com/automotive/layoffs-and-a-top-exec-out-what-gm-pullback-on-evs-means-for-you",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/5ba36d1f7acde40f921d72333b48b3cd",
+      "publishedAt": "2025-11-01T17:33:00Z",
+      "content": "General Motors recently took its biggest step yet to address a slowing electric car industry, and it's not a minor one.\r\nGM has halted battery manufacturing in Ohio and Tennessee and reduced one of t… [+6049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Elizabeth J. Carstens, Kazuki Takahashi, Naoya Sakamoto, Martina De Vizio, Micaela Morgado, Shahryar Khoshtinat Nikkhoi, Abhishek Mangipudi, Canh Hiep Nguyen, Tate Weltzin, Izuma Nakayama, Qiang Lv, Jue Zeng, Cui Nie, Changjing Deng, Xiaoxiao Wang, Lile Liu, Samuel J. Klempner, Anusuya Ramasubramanian, Jonathan A. Nowak, Andrew J. Aguirre, Kohei Shitara, Eric L. Smith",
+      "title": "Modeling and addressing on-target/off-tumor toxicity of claudin 18.2 targeted immunotherapies",
+      "description": "Claudin 18.2 (CLDN18.2) has emerged as a target for gastrointestinal cancer, however, on-target/off-tumor toxicities have been also reported. Here, after reporting evidence of erosive gastritis in patients treated with CLDN18.2 targeted immunotherapies, the a…",
+      "url": "https://www.nature.com/articles/s41467-025-65148-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-65148-6/MediaObjects/41467_2025_65148_Fig1_HTML.png",
+      "publishedAt": "2025-11-01T00:00:00Z",
+      "content": "Endoscopic image collection\r\nAnalysis included patients treated with chemotherapy plus zolbetuximab in the National Cancer Center Hospital East (Kashiwa, Japan) until September 2024. Patients who had… [+11950 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "Deesha Thosar",
+      "title": "A Clutch Mookie Betts is Huge for Dodgers’ Chances in World Series Game 7",
+      "description": "After calling his play \"terrible,\" Mookie Betts rebounded in Game 6 at the most clutch moment possible.",
+      "url": "https://www.foxsports.com/stories/mlb/clutch-mookie-betts-huge-dodgers-chances-world-series-game-7",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/10/1408/814/mookie-horiz.jpg?ve=1&tl=1",
+      "publishedAt": "2025-11-01T05:30:34Z",
+      "content": "The Dodgers were waiting the entire World Series for Mookie Betts to get going at the plate. \r\nThen he called himself \"terrible\" after he went 0-for-4 with two strikeouts, failing to reach base in a … [+5333 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Kristen Shilton",
+      "title": "Vladimir Guerrero Jr. wears \"Captain Clutch\" Poulin jersey to World Series Game 7",
+      "description": "The Toronto Blue Jays slugger paid tribute to the Canadian hockey legend in the tunnel before Game 7.",
+      "url": "https://www.espn.com/mlb/story/_/id/46806709/vladimir-guerrero-jr-marie-philip-poulin-jersey-game-7-world-series-toronto-blue-jays",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1101%2Fr1569283_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-11-01T22:03:35Z",
+      "content": "Vladimir Guerrero Jr. and the Toronto Blue Jays have everything on the line in Game 7 of the World Series on Saturday against the Los Angeles Dodgers.\r\nSo, of course, Guerrero Jr. channeled \"Captain … [+670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Card designer still finding rip-offs on Temu",
+      "description": "A small business owner says copies of her products are still being sold on Temu without permission.",
+      "url": "https://www.bbc.com/news/articles/c986659p4g9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8357/live/f115de60-b670-11f0-bb84-5d792dcc8544.jpg",
+      "publishedAt": "2025-11-01T21:52:09Z",
+      "content": "Dafydd MorganNewyddion S4C\r\nAnwen Williams says she has had to work hard to again get fake versions of her cards removed from Temu's website \r\nA card designer says she has \"missed out on a lot of mon… [+2688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techno-science.net"
+      },
+      "author": "Cédric DEPOND",
+      "title": " Découverte de la première preuve de l'existence d'une \"proto-terre\" dans les profondeurs de la Terre",
+      "description": "Au cœur de roches parmi les plus anciennes de la croûte terrestre, une équipe internationale a identifié une signature chimique jamais observée jusqu'à maintenant. Cette découverte majeure...",
+      "url": "https://www.techno-science.net/actualite/decouverte-premiere-preuve-existence-proto-terre-profondeurs-terre-N27766.html",
+      "urlToImage": "https://static.techno-science.net/illustration/Source/ASP/2023/02/Terre-noyau.jpg",
+      "publishedAt": "2025-11-01T05:00:06Z",
+      "content": "Au cur de roches parmi les plus anciennes de la croûte terrestre, une équipe internationale a identifié une signature chimique jamais observée jusqu'à maintenant. Cette découverte majeure ouvre une f… [+4052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Michael Barnard",
+      "title": "Trust in Transition: Why Global Aviation Is Starting to Fly on Chinese Certification",
+      "description": "When Brunei quietly announced that it would recognize the airworthiness rules of China’s Civil Aviation Administration, it seemed like a bureaucratic footnote. But the decision is a bellwether. By accepting CAAC certification as valid within its own jurisdict…",
+      "url": "https://cleantechnica.com/2025/11/01/trust-in-transition-why-global-aviation-is-starting-to-fly-on-chinese-certification/",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-1-2025-12_02_51-PM-800x445.png",
+      "publishedAt": "2025-11-01T22:55:12Z",
+      "content": "Support CleanTechnica's work through a Substack subscription or on Stripe.\r\nWhen Brunei quietly announced that it would recognize the airworthiness rules of Chinas Civil Aviation Administration, it s… [+14127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Americanthinker.com"
+      },
+      "author": null,
+      "title": "Arrest Zohran Kwane Mamdani",
+      "description": "Arrest Zohran Kwane Mamdani. Not because he may have lied on his immigration documents. Not because he’s a self-proclaimed communist set on overthrowing the country. Not because he’s an Israel-hating Islamist hellbent on Sharia Law. He sh...",
+      "url": "https://www.americanthinker.com/articles/2025/11/arrest_zohran_kwane_mamdani.html",
+      "urlToImage": "https://images.americanthinker.com/qv/qvcivacwqegm1frlzvel_800.jpg",
+      "publishedAt": "2025-11-01T04:00:00Z",
+      "content": "Arrest Zohran Kwane Mamdani. Not because he may have lied on his immigration documents. Not because he’s a self-proclaimed communist set on overthrowing the country. Not because he’s an Israel-hating… [+5748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "author": "Andy Behbakht",
+      "title": "Jesse Eisenberg Breaks Silence On Why He Won't Play Mark Zuckerberg In The Social Network Sequel",
+      "description": "Jesse Eisenberg has finally opened up on why he will not be back to play Mark Zuckerberg in the upcoming The Social Network sequel from Aaron Sorkin.",
+      "url": "https://screenrant.com/social-network-2-jesse-eisenberg-not-returning-explained/",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/untitled-51.jpg?w=1200&h=675&fit=crop",
+      "publishedAt": "2025-11-01T12:42:59Z",
+      "content": "Sony is returning to The Social Network through The Social Reckoningmore than a decade after the first film was released to the world. As Aaron Sorkin is telling one of the most crucial events in the… [+2026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "author": "Rich Johnston",
+      "title": "NES Friday the 13th and NECA in The Daily LITG, 1st November, 2025",
+      "description": "NES Friday the 13th and NECA was the most-read story on Bleeding Cool yesterday, yet again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded over sixteen years ago and steeped …",
+      "url": "https://bleedingcool.com/collectibles/nes-friday-the-13th-and-neca-in-the-daily-litg-1st-november-2025/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/10/7d2c030f-2f01-4ee7-bb3a-384f01327e5c.jpeg",
+      "publishedAt": "2025-11-01T10:35:04Z",
+      "content": "Posted in: Collectibles | Tagged: NES, newlitg\r\nNES Friday the 13th and NECA was the most-read story on Bleeding Cool yesterday, yet again. Lying In The Gutters is the daily runaround.\r\nNES Friday th… [+12812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "author": "Rich Johnston",
+      "title": "Dynamite Countersues Sparkle Pop For Two-Thirds Of A Million Dollars",
+      "description": "Last month, Sparkle Pop, the company owned by Ad Populum that acquired the Diamond Comic Distributors comics business at bankruptcy auction, now dubbed Diamond II, filed a lawsuit against comic book publisher Dynamite Entertainment for breaching an exclusive …",
+      "url": "https://bleedingcool.com/comics/dynamite-countersues-sparkle-pop-for-two-thirds-of-a-million-dollars/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/01/diamond-comics-distributors-bankruptcy.jpg",
+      "publishedAt": "2025-11-01T16:06:04Z",
+      "content": "Posted in: Comics, Dynamite | Tagged: Ad Populum, diamond, Sparkle Pop\r\nDynamite Entertainment files a counterclaim against Ad Populum/Sparkle Pop, the new owners of Diamond, for two-thirds of a mill… [+13966 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Harold Thibault, Philippe Mesmer",
+      "title": "Les pays d’Asie-Pacifique pris entre les risques venant des Etats-Unis et de Chine",
+      "description": "Les incertitudes créées par Donald Trump sont devenues le facteur déterminant du positionnement des pays du pourtour du Pacifique, qui étaient réunis les 31 octobre et 1ᵉʳ novembre à Gyeongju, en Corée du Sud.",
+      "url": "https://www.lemonde.fr/international/article/2025/11/01/les-pays-d-asie-pacifique-pris-entre-les-risques-venant-des-etats-unis-et-de-chine_6650824_3210.html",
+      "urlToImage": "https://img.lemde.fr/2025/10/31/0/10/2979/1986/1440/960/60/0/09913da_ftp-import-images-1-8gmmemxarsje-0dd328816d3244418168ed71d8145f9c-0-4a8390925f804d68b503f7ba799e71ab.jpg",
+      "publishedAt": "2025-11-01T13:00:11Z",
+      "content": "Le premier ministre canadien, Mark Carney, et le président chinois, Xi Jinping, lors du sommet de la Coopération économique Asie-Pacifique (APEC), à Gyeongju (Corée du Sud), le 31 octobre 2025. ADRIA… [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Just Jared"
+      },
+      "author": "Just Jared",
+      "title": "Justin Trudeau Dresses as 'Left-Shark' for Halloween in Homage to Girlfriend Katy Perry!",
+      "description": "Justin Trudeau is getting into the Halloween spirit with the help of girlfriend Katy Perry! On Friday (October 31), the 53-year-old former Prime Minister of Canada took to Instagram to show of his and 11-year-old son Hadrien‘s Halloween costumes. Justin dress…",
+      "url": "https://www.justjared.com/2025/11/01/justin-trudeau-dresses-as-left-shark-for-halloween-in-homage-to-girlfriend-katy-perry/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/11/trudeau-left-shark.jpg",
+      "publishedAt": "2025-11-01T16:03:13Z",
+      "content": "Justin Trudeau is getting into the Halloween spirit with the help of girlfriend Katy Perry!\r\nOn Friday (October 31), the 53-year-old former Prime Minister of Canada took to Instagram to show of his a… [+602 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Canadian prime minister says he apologized to Trump over anti-tariff ad",
+      "description": "Prime Minister Mark Carney also told Ontario's Premier Doug Ford not to run the ad.",
+      "url": "https://www.cbsnews.com/news/canada-mark-carney-trump-anti-tariff-ad-apology-doug-ford/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/01/6367747b-a66f-4068-86a8-44c431d5ba30/thumbnail/1200x630/7397c3d9fd8b17f72c20d6ab3295affa/ap25286628900629.jpg",
+      "publishedAt": "2025-11-01T15:25:17Z",
+      "content": "Canadian Prime Minister Mark Carney said he told Ontario's premier not to run an anti-tariff ad that prompted President Trump to end trade talks with Canada.\r\nCarney also confirmed that he apologized… [+3211 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Judge orders arrest of ex-Green Beret tied to failed Venezuela raid",
+      "description": "Jordan Goudreau was arrested last year on weapons smuggling charges tied to the failed coup attempt undertaken during the first Trump administration.",
+      "url": "https://www.cbsnews.com/news/judge-orders-arrest-green-beret-jordan-goudreau-failed-venezuela-coup/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/01/47813f99-1450-4149-9fc3-15bbe71373a5/thumbnail/1200x630/fed2dde5fa5d03199a4888969f041ab6/ap25302655587084.jpg",
+      "publishedAt": "2025-11-01T11:32:14Z",
+      "content": "A federal judge in Tampa has ordered the arrest of a former Green Beret accused of plotting to invade Venezuela in 2020 after he failed to show up to court for a hearing on whether he should be taken… [+7060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Canada PM says Xi talks 'turning point', apologises to Trump",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de3a1f35-0af1-40b6-aeae-97b8838e1512",
+      "urlToImage": null,
+      "publishedAt": "2025-11-01T07:53:55Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Nadine Yousif - Senior Canada reporter",
+      "title": "Canada's Carney to visit Xi in China, marking 'turning point' in relations",
+      "description": "Finding it hard to reach a resolution of its trade dispute with the US after Trump suspended talks, Canada turns to other major economies.",
+      "url": "https://www.bbc.com/news/articles/cx27pe8ekpdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/e54f319a76ed76b8f7e95b29dc773e58",
+      "publishedAt": "2025-11-01T09:25:54Z",
+      "content": "Canada's Prime Minister Mark Carney accepted an invitation to visit China extended by President Xi Jinping, signalling a \"turning point\" in the countries' relationship.\r\nThe invite came after the two… [+4220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Madeline Halpert",
+      "title": "Canadian PM Carney apologises to Trump over tariff ad",
+      "description": "Carney told Trump the commercial, which quoted Ronald Reagan, was \"not something I would have done\".",
+      "url": "https://www.bbc.com/news/articles/cy4007deg2qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/14d3c4b5af5f00187657eaeeef82ebb7",
+      "publishedAt": "2025-11-01T14:13:21Z",
+      "content": "Canadian Prime Minister Mark Carney said that he has apologised to US President Donald Trump over an anti-tariff advertisement which had used a Ronald Reagan quote.\r\nLast week, in response to the adv… [+2016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ROB GILLIES",
+      "title": "Canadian prime minister says he told Ontario's premier not to run anti-tariff ad that upset Trump",
+      "description": "Canadian Prime Minister Mark Carney said he told Ontario's premier not to run an anti-tariff advertisement that prompted U.S. President Donald Trump to end...",
+      "url": "https://www.yahoo.com/news/articles/canadian-prime-minister-says-told-140850050.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/P5XcVMrhixk_v2mCFhrNfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/e93163ba9bc0c85438cdf6625e77e8a7",
+      "publishedAt": "2025-11-01T14:08:50Z",
+      "content": "TORONTO (AP) Canadian Prime Minister Mark Carney said he told Ontario's premier not to run an anti-tariff advertisement that prompted U.S. President Donald Trump to end trade talks with Canada.\r\nCarn… [+2278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By David Shepardson",
+      "title": "US to announce Nexperia's China facilities will resume shipments, source says",
+      "description": "WASHINGTON (Reuters) -The White House plans to announce that Dutch chipmaker Nexperia's China facilities will resume shipments, a source said, in what would ...",
+      "url": "https://finance.yahoo.com/news/us-announce-nexperias-china-facilities-035446494.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/7dd99d1a61829fb3c9e5f3c68048ebcf",
+      "publishedAt": "2025-11-01T03:54:46Z",
+      "content": "By David Shepardson\r\nWASHINGTON (Reuters) -The White House plans to announce that Dutch chipmaker Nexperia's China facilities will resume shipments, a source said, in what would be a relief for auto … [+2835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "LINDSAY WHITEHUST",
+      "title": "A Vermont cycling apparel company is trying to survive Trump's tariffs. Will the Supreme Court help?",
+      "description": "From the moment President Donald Trump imposed tariffs on nearly every country, Nik Holm feared the company he leads might not survive.  Terry Precision...",
+      "url": "https://finance.yahoo.com/news/vermont-cycling-apparel-company-trying-040705980.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/evhilDJ3dnnIdYpzYiZH7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjA-/https://media.zenfs.com/en/ap_finance_articles_694/60aecc11ca68495d1971796bf61da3db",
+      "publishedAt": "2025-11-01T04:07:05Z",
+      "content": "BURLINGTON, Vt. (AP) From the moment President Donald Trump imposed tariffs on nearly every country, Nik Holm feared the company he leads might not survive.\r\nTerry Precision Cycling has made it 40 ye… [+7364 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Maureen Groppe, USA TODAY",
+      "title": "Are Trump's tariffs too big to fail at the Supreme Court?",
+      "description": "The stakes are huge for the challenge to President Trump's sweeping tariffs that the Supreme Court will consider on Nov. 5.",
+      "url": "https://www.usatoday.com/story/news/politics/2025/11/01/trump-tariffs-supreme-court-consequences/86947342007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2olj3hpm0Eu8vwYObdL_MA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/0aa253df7aced00eac6aaff4ff38159c",
+      "publishedAt": "2025-11-01T07:01:34Z",
+      "content": "WASHINGTON As President Donald Trump sees it, the Supreme Court faces a stark choice when it considers on Nov. 5 whether to uphold the sweeping tariffs hes imposed on nearly every product brought int… [+9907 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "James Oaten",
+      "title": "APEC highlights idea of 'free and fair' global trade is severely wounded",
+      "description": "While Donald Trump skipped the APEC conference, Xi Jinping was positioning China as a believer in free and fair trade, and multilateralism.",
+      "url": "https://www.abc.net.au/news/2025-11-01/apec-highlights-idea-of-free-and-fair-global-trade-is-wounded/105961066",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6bd64e19f43818839b50b6fb51ef3ffa?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-01T05:57:11Z",
+      "content": "It is billed as one of the most significant annual trade gatherings, but this year's Asia-Pacific Economic Cooperation summit had a Trump-sized hole that has shaken its very foundations.\r\nThe APEC is… [+4442 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Megan Hughes and Maddelin McCosker",
+      "title": "Couple swaps marine engineering for life as outback publicans",
+      "description": "Adam and Prue Brancher had no experience running a pub when they decided to uproot their lives in Tasmania and move to outback Queensland.",
+      "url": "https://www.abc.net.au/news/2025-11-02/from-marine-engingeers-to-outback-publicans/105793722",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/782498da6ab72e127a7c9e90e0ffc47e?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=489&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-01T19:59:17Z",
+      "content": "Eulo in south-west Queensland is a far cry from the rugged coastline of Tasmania, but that did not stop Adam and Prue Brancher from jumping into the outback headfirst.\r\nDespite no experience in hospi… [+5479 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "Tanzanian president wins disputed election with 97pc of vote",
+      "description": "The result is likely to amplify the concerns of critics, opposition groups and others who said the election was not a contest but a coronation, after the president's two main rivals were barred or prevented from running.",
+      "url": "https://www.abc.net.au/news/2025-11-02/samia-suluhu-hassan-tanzania-election-results-disputed-win/105961496",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b217005aa87408e419b9e2cfd6a57dd1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-11-01T13:05:13Z",
+      "content": "WARNING: This story contains images that may distress some readers.\r\nTanzanian President Samia Suluhu Hassan won the country's disputed election with more than 97 per cent of the vote, according to o… [+5133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer: Livestream Nottingham Forest vs. Man United From Anywhere",
+      "description": "A win for Ruben Amorim's men at the City Ground could push them into the top four.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-man-united-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/bf0c7419d9792a3d4e38f6e4265ba621c98ecc29/hub/2025/10/31/05f3d52d-ba5f-465b-b615-178ff6b38aa2/gettyimages-2243254456.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T12:00:10Z",
+      "content": "When to watch Nottingham Forest vs. Manchester United\r\n<ul><li>Saturday, Nov. 1 at 11 a.m. ET (8 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Nottingham Forest vs. Man United will air in the US on Peac… [+5522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GeekTyrant"
+      },
+      "author": "Joey Paur",
+      "title": "Fascinating Facts About the Timeless Halloween Classic IT'S THE GREAT PUMPKIN, CHARLIE BROWN",
+      "description": "Every Halloween, millions of fans revisit It’s the Great Pumpkin, Charlie Brow, a heartwarming, funny, and surprisingly emotional animated classic that has stood the test of time. Recently, The Vintage Vault shared some fascinating facts about this Peanuts st…",
+      "url": "https://geektyrant.com/news/fascinating-facts-about-the-timeless-halloween-classic-its-the-great-pumpkin-charlie-brown",
+      "urlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6900d8ebf89bca2bf1fa657a/1762020932533/Fascinating+Facts+About+the+Timeless+Halloween+Classic+IT%27S+THE+GREAT+PUMPKIN%2C+CHARLIE+BROWN.jpg?format=1500w",
+      "publishedAt": "2025-11-01T18:15:00Z",
+      "content": "Every Halloween, millions of fans revisit Its the Great Pumpkin, Charlie Brow, a heartwarming, funny, and surprisingly emotional animated classic that has stood the test of time. \r\nRecently, The Vint… [+1864 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Amy Furr",
+      "title": "WATCH -- Canada's Armed Forces Head Tearfully Apologizes for 'Systemic Racism'",
+      "description": "Canadian Armed Forces head General Jennie Carignan gave a tearful apology for \"systemic racism\" officials claimed affected military members.\nThe post WATCH — Canada’s Armed Forces Head Tearfully Apologizes for ‘Systemic Racism’ appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/social-justice/2025/11/01/watch-canadas-armed-forces-head-tearfully-apologizes-systemic-racism/",
+      "urlToImage": "https://media.breitbart.com/media/2025/11/Jennie-Carignan-640x335.jpg",
+      "publishedAt": "2025-11-01T20:23:33Z",
+      "content": "The head of the Canadian Armed Forces (CAF), General Jennie Carignan, gave a tearful apology Thursday in Ottawa, Ontario, for “systemic racism” officials claimed affected past and current military me… [+2665 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Amy Furr",
+      "title": "Canadian Prime Minister Mark Carney Apologizes to President Trump over 'Fraudulent' Ad Criticizing Tariffs",
+      "description": "Canada's Prime Minister Mark Carney has apologized to President Donald Trump for an ad criticizing his tariff policies.\nThe post Canadian Prime Minister Mark Carney Apologizes to President Trump over ‘Fraudulent’ Ad Criticizing Tariffs appeared first on Breit…",
+      "url": "https://www.breitbart.com/politics/2025/11/01/canadian-prime-minister-mark-carney-apologizes-to-president-trump-over-fraudulent-ad-criticizing-tariffs/",
+      "urlToImage": "https://media.breitbart.com/media/2025/11/GettyImages-2244289135-640x335.png",
+      "publishedAt": "2025-11-01T19:02:56Z",
+      "content": "Canada’s Prime Minister Mark Carney has apologized to President Donald Trump for an ad criticizing his tariff policies.\r\nWhen speaking to reporters Saturday after the Asia-Pacific Economic Cooperatio… [+2712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Novinky.cz"
+      },
+      "author": "ČTK",
+      "title": "Kanadský premiér Carney se omluvil Trumpovi za reklamu kritizující cla",
+      "description": "Kanadský premiér Mark Carney se omluvil americkému prezidentovi Donaldu Trumpovi za reklamu kanadské provincie Ontario, která kritizuje zavádění cel. Carney to v sobotu podle agentury Reuters řekl s tím, že se Trumpovi neveřejně omluvil na středeční večeři po…",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-kanadsky-premier-carney-se-omluvil-trumpovi-za-reklamu-kritizujici-cla-40546685",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_oc_A/kcukOQcMmBKdMEUID59l67/0e02/kanada-carney.jpeg?fl=cro,0,54,3000,1687%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-11-01T09:37:57Z",
+      "content": "Carney uvedl, e reklamu jet ped zveejnním vidl, ale u tehdy premiérovi Ontaria Dougu Fordovi ekl, e s jejím vysíláním nesouhlasí.\r\nV reklam byl pouit zvukový záznam, ve kterém nkdejí americký prezide… [+1278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Canadian PM Carney apologises to Trump over tariff ad",
+      "description": "Carney told Trump the commercial, which quoted Ronald Reagan, was \"not something I would have done\".",
+      "url": "https://www.bbc.com/news/articles/cy4007deg2qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3750/live/febefb00-b724-11f0-b61d-e1ba4323140f.jpg",
+      "publishedAt": "2025-11-01T14:13:18Z",
+      "content": "Canadian Prime Minister Mark Carney said that he has apologised to US President Donald Trump over an anti-tariff advertisement which had used a Ronald Reagan quote. \r\nLast week, in response to the ad… [+2025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "Trump and Xi strike a tentative truce in an economic cold war",
+      "description": "U.S. and Chinese leaders agree to de-escalate trade tensions following a high-stakes meeting in South Korea. The agreement includes China resuming purchases of U.S. farm goods and easing restrictions on rare earth mineral exports. In a key concession, the U.S…",
+      "url": "https://www.naturalnews.com/2025-11-01-trump-xi-tentative-truce-economic-cold-war.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/11/China-America-Fight-Stock-Economy.jpg",
+      "publishedAt": "2025-11-01T06:00:00Z",
+      "content": "<ul><li>U.S. and Chinese leaders agree to de-escalate trade tensions following a high-stakes meeting in South Korea.</li><li>The agreement includes China resuming purchases of U.S. farm goods and eas… [+5892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ozbargain.com.au"
+      },
+      "author": "CheapFlightHunter",
+      "title": "Air Canada return: Vancouver ex BNE $1223, SYD $1260, MEL $1260; Calgary ex BNE $1264, SYD $1272, MEL $1270 + more@GoogleFlights",
+      "description": "Solid fares to Canada with Air Canada. Dates are February to August 2026. FYI these are economy basic fares which don't include checked bags, but you can upgrade to a regular economy fare for …",
+      "url": "https://www.ozbargain.com.au/node/931050",
+      "urlToImage": "https://files.ozbargain.com.au/n/50/931050x.jpg?h=1cf0325a",
+      "publishedAt": "2025-11-01T03:53:05Z",
+      "content": "Solid fares to Canada with Air Canada. Dates are February to August 2026. FYI these are economy basic fares which don't include checked bags, but you can upgrade to a regular economy fare for $23 eac… [+681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FREDZONE"
+      },
+      "author": "Habib ADECHOKAN",
+      "title": "Une application d’entraînement cérébral rajeunit un système clé du cerveau de dix ans",
+      "description": "Le cerveau nécessite un entraînement régulier pour préserver sa jeunesse et sa vitalité, au même titre que le corps. Des neurologues de l’université McGill au Canada ont évalué un exercice numérique conçu par la société américaine de biotechnologie Posit Scie…",
+      "url": "https://www.fredzone.org/une-application-dentrainement-cerebral-rajeunit-un-systeme-cle-du-cerveau-de-dix-ans/",
+      "urlToImage": "https://www.fredzone.org/wp-content/uploads/2025/10/IMG_3490.png",
+      "publishedAt": "2025-11-01T12:35:15Z",
+      "content": "Le cerveau nécessite un entraînement régulier pour préserver sa jeunesse et sa vitalité, au même titre que le corps. Des neurologues de l’université McGill au Canada ont évalué un exercice numérique … [+4185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.dr.dk"
+      },
+      "author": null,
+      "title": "Canada undskylder til Trump for reklamevideo",
+      "description": "Man kan roligt sige, at USA's præsident, Donald Trump, blev sur, da Canadas regering for nogle uger siden lavede en reklamevideo, hvor tidligere præsident i USA Ronald Reagan argumenterede imod toldsatser og sagde, at de ikke virker i det lange løb.",
+      "url": "https://www.dr.dk/nyheder/seneste/canada-undskylder-til-trump-reklamevideo",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-11-01T06:27:00Z",
+      "content": "Fra årsskiftet vil borgerne i ni kommuner i landet skulle betale mindre skat, end de gør i dag. \r\nIfølge en opgørelse, som Indenrigs- og Sundhedsministeriet har foretaget, har de danske kommuner fund… [+659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.dr.dk"
+      },
+      "author": null,
+      "title": "I USA og Canada bruger Airbnb AI-teknologi for at stoppe udlejning til Halloween-fester",
+      "description": "Halloween er for mange lig med udklædning, snolder-jagt for de mindste og fester for de lidt ældre.",
+      "url": "https://www.dr.dk/nyheder/seneste/i-usa-og-canada-bruger-airbnb-ai-teknologi-stoppe-udlejning-til-halloween-fester",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-11-01T00:44:00Z",
+      "content": "Halloween er for mange lig med udklædning, snolder-jagt for de mindste og fester for de lidt ældre.\r\nMen sidstnævnte kan skabe gener for naboer eller personer, der uvidende lejer deres hjem ud til år… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.dr.dk"
+      },
+      "author": null,
+      "title": "Tanzanias præsident vinder jordskredssejr",
+      "description": "Tanzanias præsident, Samia Suluhu Hassan, har vundet præsidentvalget i landet med 97,6 procent af stemmerne.",
+      "url": "https://www.dr.dk/nyheder/seneste/tanzanias-praesident-vinder-jordskredssejr",
+      "urlToImage": "https://asset.dr.dk/drdk/umbraco-images/ycmdownf/20251101-063438-7.jpg?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-11-01T05:54:00Z",
+      "content": "Halloween er for mange lig med udklædning, snolder-jagt for de mindste og fester for de lidt ældre.\r\nMen sidstnævnte kan skabe gener for naboer eller personer, der uvidende lejer deres hjem ud til år… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.dr.dk"
+      },
+      "author": null,
+      "title": "G7-landene fordømmer russiske angreb på Ukraines energisektor",
+      "description": "Ruslands angreb på Ukraines energisystem fordømmes af energiministrene i G7-landene.",
+      "url": "https://www.dr.dk/nyheder/seneste/g7-landene-fordoemmer-russiske-angreb-paa-ukraines-energisektor",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-11-01T00:51:00Z",
+      "content": "Halloween er for mange lig med udklædning, snolder-jagt for de mindste og fester for de lidt ældre.\r\nMen sidstnævnte kan skabe gener for naboer eller personer, der uvidende lejer deres hjem ud til år… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.dr.dk"
+      },
+      "author": null,
+      "title": "Drone lukkede Berlins lufthavn",
+      "description": "Det var en drone, der i aftes fik Berlin Brandenburg Lufthavn til at lukke i to timer.",
+      "url": "https://www.dr.dk/nyheder/seneste/drone-lukkede-berlins-lufthavn",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-11-01T05:32:00Z",
+      "content": "Halloween er for mange lig med udklædning, snolder-jagt for de mindste og fester for de lidt ældre.\r\nMen sidstnævnte kan skabe gener for naboer eller personer, der uvidende lejer deres hjem ud til år… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "disneyfoodblog.com"
+      },
+      "author": "Robin Burks",
+      "title": "REVIEW: If You Can Only Choose ONE EPCOT World Showcase Pavilion for Dinner, Choose THIS ONE",
+      "description": "We're returning to Le Cellier to see if it still holds up.\nThe post REVIEW: If You Can Only Choose ONE EPCOT World Showcase Pavilion for Dinner, Choose THIS ONE first appeared on the disney food blog.",
+      "url": "https://www.disneyfoodblog.com/2025/11/01/review-if-you-can-only-choose-one-epcot-world-showcase-pavilion-for-dinner-choose-this-one/",
+      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/10/2025-wdw-epcot-le-cellier-signature-poutine-3-700x525.jpg",
+      "publishedAt": "2025-11-01T18:00:03Z",
+      "content": "When it comes to amazing restaurants, EPCOT certainly has its share. You can just basically walk around World Showcase and dine around the world! We love the ‘ol “snack and stroll” method when we’re … [+10401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraaf.nl"
+      },
+      "author": "Renze Lolkema",
+      "title": "LA Dodgers jagen in Halloween-nacht Toronto Blue Jays stuipen op het lijf",
+      "description": "Na twee thuisduels in de World Series voor schut te zijn gezet in eigen stadion, vlogen de honkballers van LA Dodgers met frisse tegenzin naar Canada waar ze op Halloween-avond hun vege lijf moesten zien te redden tegen het ontketende Toronto Blue Jays. Op de…",
+      "url": "https://www.telegraaf.nl/sport/la-dodgers-jagen-in-halloween-nacht-toronto-blue-jays-stuipen-op-het-lijf/101675789.html",
+      "urlToImage": "https://prod-img.telegraaf.nl/public/incoming/f0u0ug-file832h5h9r8hj1mveimsjz/alternates/SIXTEEN_NINE_1200/file832h5h9r8hj1mveimsjz",
+      "publishedAt": "2025-11-01T06:55:25Z",
+      "content": "Het werd daarom in de zesde wedstrijd van de finalereeks 1-3 voor Los Angeles dat zodoende uitstel van executie kreeg. De stand in de World Series is nu 3-3, komende nacht wordt duidelijk wie zich we… [+3474 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Freddie Clayton",
+      "title": "Canada's Mark Carney apologizes to Trump over anti-tariff ad",
+      "description": "Canadian Prime Minister Mark Carney has said he apologized to President Donald Trump for an Ontario government ad that used former President Ronald Reagan's words in order to criticize Trump’s trade policy.\"I did apologize,\" Carney told reporters on Saturday …",
+      "url": "https://www.nbcnews.com/world/canada/canadas-mark-carney-apologizes-trump-anti-tariff-ad-rcna241261",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251101-carney-nd-052867.jpg",
+      "publishedAt": "2025-11-01T08:28:37Z",
+      "content": "Canadian Prime Minister Mark Carney has said he apologized to President Donald Trump for an Ontario government ad that used former President Ronald Reagan's words in order to criticize Trumps trade p… [+2111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Charles Rotter",
+      "title": "Gloom, Despair, and Agony on Me",
+      "description": "If it weren’t for bad luck, I’d have no luck at all.",
+      "url": "https://wattsupwiththat.com/2025/11/01/gloom-despair-and-agony-on-me/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/11/doom_despair_and_agony_on_me_ins-mann.webp?fit=1024%2C512&quality=75&ssl=1",
+      "publishedAt": "2025-11-01T17:00:00Z",
+      "content": "Charles Rotter,\r\nNote the highlighted name.\r\nThere was a song that formed a repeated “bit” on the old Hee Haw show that went: Gloom, despair, and agony on me / deep dark depression, excessive misery.… [+26270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vince Golle and Molly Smith",
+      "title": "Charting the Global Economy: Fed Reins In Rate-Cut Expectations",
+      "description": "The European Central Bank kept borrowing costs unchanged for a third straight meeting, with inflation in check and the economy expanding.  The Fed said it...",
+      "url": "https://finance.yahoo.com/news/charting-global-economy-fed-reins-090000413.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ap07uYvKBQHdKbhEAhZeqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/06c18f3f558d0c3f126387d754caad2b",
+      "publishedAt": "2025-11-01T09:00:00Z",
+      "content": "A television station broadcasts Jerome Powell on the floor of the New York Stock Exchange last week.\r\n(Bloomberg) -- Central bankers in North Americas two largest economies lowered borrowing costs th… [+6135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediafax.ro"
+      },
+      "author": "Andreea Tobias",
+      "title": "Preşedinta Tanzaniei câştigă alegerile cu 97% din voturi, pe fondul violenţelor şi contestaţiilor",
+      "description": "Preşedinta Tanzaniei, Samia Suluhu Hassan, a câştigat alegerile cu peste 97% din voturi, conform rezultatelor oficiale, într-o victorie zdrobitoare care amplifică îngrijorările privind democraţia în această ţară din Africa de Est.",
+      "url": "https://www.mediafax.ro/externe/presedinta-tanzaniei-castiga-alegerile-cu-97-din-voturi-pe-fondul-violentelor-si-contestatiilor-23635121",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/11/hepta_7780914-scaled.jpg",
+      "publishedAt": "2025-11-01T07:59:44Z",
+      "content": "Politiciana se afl la al doilea mandat, aceasta fiind aleas i în 2021.\r\nScrutinul din 29 octombrie a fost marcat de violene masive, conexiuni la internet întrerupte repetat i mobilizarea armatei pent… [+1243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediafax.ro"
+      },
+      "author": "Andreea Tobias",
+      "title": "G7 condamnă „terorismul energetic sistematic” din Ucraina",
+      "description": "G7 condamnă „terorismul energetic sistematic” din Ucraina, pe fondul creşterii temerilor privind siguranţa nucleară",
+      "url": "https://www.mediafax.ro/externe/g7-condamna-terorismul-energetic-sistematic-din-ucraina-23635089",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2025/10/g7-scaled.jpg",
+      "publishedAt": "2025-11-01T05:41:55Z",
+      "content": "Minitrii energiei din rile Grupului celor apte (G7) au condamnat vineri atacurile Rusiei asupra infrastructurii energetice a Ucrainei i au promis un sprijin mai puternic pentru Kiev, pe msur ce se ap… [+3576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Japan Today"
+      },
+      "author": null,
+      "title": "Japan, Canada leaders vow to deepen cooperation on security, energy",
+      "description": "Japanese Prime Minister Sanae Takaichi and Canadian Prime Minister Mark Carney on Saturday agreed to deepen bilateral cooperation in wide-ranging areas including security and energy, during their first meeting on the sidelines of a regional summit in South Ko…",
+      "url": "https://japantoday.com/category/politics/japan-canada-leaders-vow-to-deepen-cooperation-on-security-energy",
+      "urlToImage": null,
+      "publishedAt": "2025-11-01T21:56:16Z",
+      "content": "Japanese Prime Minister Sanae Takaichi and Canadian Prime Minister Mark Carney on Saturday agreed to deepen bilateral cooperation in wide-ranging areas including security and energy, during their fir… [+768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ahouseinthehills.com"
+      },
+      "author": "Lauren Bennett",
+      "title": "Canadian Log Cabin Kits: Mountain Ridge Quality You Can Trust",
+      "description": "When people talk of escaping from the hustle and bustle of urban living, one of the first things that come to mind is a retreat to nature. A quiet vacation to the woods, in that cabin in the middle of nature’s beauties such as snow covered mountains or glassy…",
+      "url": "https://ahouseinthehills.com/canadian-log-cabin-kits-mountain-ridge-quality-you-can-trust/",
+      "urlToImage": "https://ahouseinthehills.com/wp-content/uploads/2025/11/c-users-user-downloads-log-home-with-windows-jpg.jpeg",
+      "publishedAt": "2025-11-01T07:31:51Z",
+      "content": "When people talk of escaping from the hustle and bustle of urban living, one of the first things that come to mind is a retreat to nature. A quiet vacation to the woods, in that cabin in the middle o… [+6151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Viewfromthewing.com"
+      },
+      "author": "View from the Wing",
+      "title": "Las Vegas Thought Tourists Would Pay Anything — Here’s Why The City’s Now Paying the Price",
+      "description": "Las Vegas built its comeback on high-roller spending and relentless fees — but the gamble is finally catching up. Visitor numbers are plunging, hotel rates are slipping, and the city that thought tourists would pay anything is now paying the price itself.\nCon…",
+      "url": "https://viewfromthewing.com/las-vegas-thought-tourists-would-pay-anything-heres-why-the-citys-now-paying-the-price/",
+      "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2024/08/image-1-1024x768.png",
+      "publishedAt": "2025-11-01T10:04:30Z",
+      "content": "There’s a lot of hand wringing over what’s wrong with Las Vegas, and the extent to which declining visitor numbers are a harbinger for economic recession – or simply reflecting a broken business mode… [+4438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thealviator.com"
+      },
+      "author": "The Alviator",
+      "title": "Best Uses Of American Airlines AAdvantage Miles",
+      "description": "American Airlines AAdvantage miles are some of the most lucrative miles for premium travel. Here are some of the ways I like using them.\nThe post Best Uses Of American Airlines AAdvantage Miles appeared first on The Alviator.",
+      "url": "https://thealviator.com/2025/11/aadvantage-best-uses/",
+      "urlToImage": "https://thealviator.com/wp-content/uploads/2025/10/IMG_3455-2-scaled.jpg",
+      "publishedAt": "2025-11-01T19:40:36Z",
+      "content": "One of the first non-Hong Kong based airline programmes I invested in was American Airlines’ AAdvantage miles. At some point when I was growing up, I clocked that the biggest miles and points scene w… [+17160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.vg.no"
+      },
+      "author": "Stella Bugge",
+      "title": "Andrew fjernes ikke fra arverekken til tronen",
+      "description": "Det er ingen planer om å fjerne Andrew Mountbatten Windsor fra arverekken til tronen.",
+      "url": "https://www.vg.no/nyheter/i/vgvMBL/andrew-fjernes-ikke-fra-arverekken-til-tronen",
+      "urlToImage": "https://akamai.vgc.no/v2/images/5b15de74-28dc-4117-bd53-97ea48167638?format=auto&w=1080&s=0ee16dad3ce50eafc54ea240be374aa96e901283",
+      "publishedAt": "2025-11-01T01:52:13Z",
+      "content": "Det melder BBC som viser til regjeringen. En slik endring ville kreve en lovendring og en talsperson for regjeringen sier til BBC at dette ikke er aktuelt.\r\nÅ vedta en lov for å endre arverekkefølgen… [+2259 chars]"
+    }
+  ],
+  "top-articles": [
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Simon Lewis",
+      "title": "Leaders of Germany, France, Italy, Romania in Ukraine to support fight against Russia",
+      "description": "Zelensky expected to push for more arms to withstand the Russian invaders after accusing France, Germany and Italy of foot-dragging",
+      "url": "https://www.theglobeandmail.com/world/article-leaders-of-germany-france-italy-romania-in-ukraine-to-support-fight/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/6iggvDIIPm8nMfFIyizxVooISQk=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/7DA5SGPPCFK5JE7H2QYZYJMDYQ.jpg",
+      "publishedAt": "2022-06-16T10:05:33Z",
+      "content": "French President Emmanuel Macron, left, Italian Prime Minister Mario Draghi, center right, and German Chancellor Olaf Scholz, center, visit Irpin, Ukraine, Thursday, June 16, 2022.LUDOVIC MARIN/AFP/G… [+4074 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "David Milstead",
+      "title": "BlackBerry spins its wheels, but the paydays continue",
+      "description": "The pay-for-performance disconnect at BlackBerry is real and getting worse, and shareholders will likely send that message next week",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-blackberry-spins-its-wheels-but-the-paydays-continue/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/QLPYhpHktyPu5XVXv2-exoaDXl8=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/RIK2JR2Z2JJSDBM4CKZMQ7UJRY.jpg",
+      "publishedAt": "2022-06-16T09:30:00Z",
+      "content": "BlackBerry's headquarters in Waterloo, Ont., in 2016.Eduardo Lima/The Canadian Press\r\nWe will soon enter the 10th year of the John Chen turnaround era at BlackBerry BB-T. The shares today trade for l… [+5534 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Unknown",
+      "title": "Panic at the crypto",
+      "description": "Cryptocurrencies have taken another beating this week. Globe columnist Tim Kiladze makes sense of this latest crash",
+      "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-panic-at-the-crypto/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/_avQSW-gNb8XMlBIpkC-PJlBCCk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GHQ5WM2SKJDSDH53LMIWUHHUSA.png",
+      "publishedAt": "2022-06-16T09:00:00Z",
+      "content": "Cryptocurrencies have taken another dive this week. And this crash follows seven months of declines, even for the big names in the game. Bitcoin, for example, is down more than 60 per cent from its p… [+339 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Erica Alini",
+      "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+      "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/k4SzzUz-fDXLTPrBSHk8c8OwZCs=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OUZ33GZN4VBJZCAFM4TXYDFKAI.JPG",
+      "publishedAt": "2022-06-16T09:00:00Z",
+      "content": "A sign advertising a house for rent in Ottawa, Ont., on May 16.Spencer Colby/The Globe and Mail\r\nJust as Canadas home sales and prices cool off, the rental market is catching fire.\r\nRents in many par… [+4720 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Molly Hayes",
+      "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+      "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+      "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+      "publishedAt": "2022-06-16T01:18:17Z",
+      "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Rob Carrick",
+      "title": "Across Canada, renters are now saving hundreds of dollars over owning",
+      "description": "The math on renting vs. owning a home has changed drastically, says Rob Carrick in this look at the owning versus renting debate",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/young-money/article-across-canada-renters-are-now-saving-hundreds-of-dollars-over-owning/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/dFdptMc5FozhtNzZPFfM0ZLg0dE=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/QFFG43C2MFA75BU5DX762JPIHU.jpg",
+      "publishedAt": "2022-06-15T19:46:27Z",
+      "content": "Signs for apartments available for rent in Toronto on Jan. 28, 2021.Fred Lum/The Globe and Mail\r\nSoaring mortgage rates have blown up a foundational argument for owning a home versus renting.\r\nNo lon… [+4193 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Lawrence Martin",
+      "title": "Liz Cheney is making headway in slaying the Trump dragon",
+      "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+      "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/wCgPPEAVIFE4MLAb_xauhJzJqLI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/YT6S7Z443RL23MYNL4VZY4WXRQ.jpg",
+      "publishedAt": "2022-06-15T19:24:08Z",
+      "content": "Vice Chair Liz Cheney, Rep. Adam Schiff, and Rep. Adam Kinzinger, stand together during a break as the House select committee investigating the Jan. 6 attack on the U.S. Capitol holds its first publi… [+4635 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Wency Leung",
+      "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+      "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+      "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+      "publishedAt": "2022-06-15T17:00:00Z",
+      "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Andrew Coyne",
+      "title": "Partying with the Russians: the message is, this will all blow over some day",
+      "description": "By sending a representative, Global Affairs betrayed its attitude toward the war in Ukraine",
+      "url": "https://www.theglobeandmail.com/opinion/article-partying-with-the-russians-the-message-is-this-will-all-blow-over-some/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/R3Y_DNOEovI5S-QHfuvtEcm2plk=/1200x784/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/Q2UEI7OMKVN4TFSD2YFLLCSVLQ.JPG",
+      "publishedAt": "2022-06-15T12:00:00Z",
+      "content": "A pro-Ukrainian supporter waves the country's flag outside the Russian embassy in Ottawa on Feb. 24.Adrian Wyld/The Canadian Press\r\nTo recap: On Sunday it was reported that the department of Global A… [+4831 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Molly Hayes, Elizabeth Renzetti, Tavia Grant",
+      "title": "Many women who suffer from intimate partner violence don’t trust the police. Why are they the default response?",
+      "description": "Fearing discrimination, revictimization or arrests that do more harm than good, women in Canada often stay silent about their abuse. Other jurisdictions are trying to remove police from the equation",
+      "url": "https://www.theglobeandmail.com/canada/article-intimate-partner-violence-police-response/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/h3D0ZHZzlxFB18W4eUcmyacIGmk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X4AS2XJHEVGLPICTE2LTJYPIIM.JPG",
+      "publishedAt": "2022-06-14T11:00:00Z",
+      "content": "Several times, Sue Caribou of Winnipeg would offer her couch to cousin Marie Morin when she needed a safe place away from her abusive boyfriend. He killed Ms. Morin two years ago and pleaded guilty t… [+11961 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "ANALYSIS | House of Dynamite is a film fuelling nuclear war fears. It's far from the first | CBC News",
+      "description": "Kathryn Bigelow's House of Dynamite — about the United States government's protocols in the face of a nuclear attack — prompted a response from no less than the Pentagon. It is hardly the first nuclear-warning film to get people talking.",
+      "url": "http://www.cbc.ca/news/entertainment/house-of-dynamite-9.6962616",
+      "urlToImage": "https://i.cbc.ca/ais/5cd50012-9683-4d76-9b62-bd7994222a5a,1761948305925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5400%2C3037%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T15:52:21.9074728Z",
+      "content": "Shortly after its premiere, Kathryn Bigelows nuclear warning film House of Dynamite earned a curious distinction. Instead of Oscar nominations or accolades, it was a warning: according to Bloomberg, … [+7397 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "AP",
+      "title": "Obama to rally Democrats in Virginia and New Jersey in weekend campaign push before Election Day - Breitbart",
+      "description": "Former President Barack Obama is headlining rallies for Democrats running for governor in Virginia and New Jersey Obama to rally Democrats in Virginia and",
+      "url": "https://www.breitbart.com/news/obama-to-rally-democrats-in-virginia-and-new-jersey-in-weekend-campaign-push-before-election-day/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/wi/ap/election-2025-governor-26938-election-2025-governor-president-barack-obama-speaks-at-macdill-air-640x335.jpg",
+      "publishedAt": "2025-11-01T14:07:31.2043754Z",
+      "content": "Former President Barack Obama is headlining rallies for Democrats running for governor in Virginia and New Jersey\r\nObama to rally Democrats in Virginia and New Jersey in weekend campaign push before … [+7335 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": null,
+      "title": "Google News",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaE9Rd1ppbElGcWltLWlGOE5sbjBxYURWeEdXZW4tM3Z2bUVGMm9UYkQtMzRNQ19NLUhtS0NvdkgwVTJicUhJVUpJWG5vQWwtQXZhcFpzOXFrSnI1b1RkQm9YTUZaSjN6cF9UMmpBZE9lbmM3dUZ5b09zdDRSaXpFMS15azhubWVHOUF0ckpzSWJhcVUxRmc",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2025-11-01T13:30:56+00:00",
+      "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "At Issue | Canada-U.S. trade negotiations go off the rails",
+      "description": "At Issue this week: Canada-U.S. trade negotiations go off the rails after an anti-tariff ad angers Trump. Parties accuse each other of trying to force an election over the budget. And was Alberta justified in using the notwithstanding clause to get teachers b…",
+      "url": "http://www.cbc.ca/player/play/video/9.6961043",
+      "urlToImage": "https://i.cbc.ca/ais/67911f4d-03a0-44df-a0f4-ce26c6b6a420,1761860029512/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+      "publishedAt": "2025-11-01T13:22:32.7672888Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "U.S. ambassador to Canada goes on expletive-laced tirade at Ontario’s trade representative, witnesses say  | CBC News",
+      "description": "The U.S. ambassador to Canada delivered an expletive-laced tirade at Ontario's trade representative at an event in Ottawa on Monday, multiple witnesses tell CBC News",
+      "url": "http://www.cbc.ca/news/politics/ambassador-hoekstra-rant-9.6957854",
+      "urlToImage": "https://i.cbc.ca/ais/7adc27fe-abaa-4f7d-8c9c-1362b08377c9,1761703807939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C322%2C6167%2C3468%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T13:22:31.1114529Z",
+      "content": "The U.S. ambassador to Canada delivered an expletive-laced tirade at Ontario's trade representative at an event in Ottawa on Monday, multiple witnesses tell CBC News.\r\nWord spread quickly through som… [+3495 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Trump and Carney keep it civil over dinner ahead of APEC Summit  | CBC News",
+      "description": "The U.S. president and the Canadian prime minister exchanged gestures but barely spoke at a dinner in advance of the APEC Summit.",
+      "url": "http://www.cbc.ca/news/politics/trump-carney-trade-tariffs-9.6958013",
+      "urlToImage": "https://i.cbc.ca/ais/dd6dda16-ae4b-4de4-86ef-0c5b11fab930,1761740402153/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C2000%2C1125%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T13:22:29.7656767Z",
+      "content": "U.S. President Donald Trump and Prime Minister Mark Carney were seated across the table and even acknowledged each other during a toast at a dinner ahead of the Asia-Pacific Economic Co-Operation Sum… [+6739 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Trump says Carney apologized for Ford's anti-tariff ad | CBC News",
+      "description": "U.S. President Donald Trump says Prime Minister Mark Carney apologized for the Ontario government ad that used former president Ronald Reagan’s own words to spread an anti-tariff message to an American audience.",
+      "url": "http://www.cbc.ca/news/politics/trump-carney-apology-reagan-ad-9.6962225",
+      "urlToImage": "https://i.cbc.ca/ais/1.7500266,1761938331147/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T13:22:28.8284093Z",
+      "content": "U.S. President Donald Trump says Prime Minister Mark Carney apologized for the Ontario government ad that used former president Ronald Reagans own words to spread an anti-tariff message to an America… [+2205 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "'Why did he promise it?': Poilievre criticizes Carney for not securing U.S. trade deal | CBC News",
+      "description": "Conservative Leader Pierre Poilievre is questioning why Prime Minister Mark Carney promised he could handle U.S. President Donald Trump, given that the two countries have yet to finalize a trade agreement that would see Canada granted some tariff relief.",
+      "url": "http://www.cbc.ca/news/politics/poilievre-criticizes-carney-u-s-trade-deal-9.6962431",
+      "urlToImage": "https://i.cbc.ca/ais/5eaf028c-75ba-481b-b003-704ce3665f3d,1761943729096/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C6240%2C3510%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T13:22:27.4068884Z",
+      "content": "Conservative Leader Pierre Poilievre is questioning why Prime Minister Mark Carney promised he could handle U.S. President Donald Trump, given that the two countries have yet to finalize a trade agre… [+2459 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "ANALYSIS | Carney's talk of 'sacrifices' suggests Canadians could soon face those tough choices | CBC News",
+      "description": "It remains unclear exactly what those sacrifices will be or how they will be distributed. But the mere mention of sacrifices makes clear that Canadians are about to be faced with some real choices about how to move forward in a very different world.",
+      "url": "http://www.cbc.ca/news/politics/carney-polievre-budget-sacrifice-analysis-9.6962155",
+      "urlToImage": "https://i.cbc.ca/ais/92650b15-f60f-4c1e-a3c0-9835b0d31c89,1761946042087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T13:22:24.9387526Z",
+      "content": "The morning after Mark Carney's 30-minute address to an audience at the University of Ottawa, Pierre Poilievre appeared before reporters to offer his review. The Conservative leader was unimpressed.\r… [+7379 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "'This is not a game,' Carney says as he signals he's ready to fight election over federal budget | CBC News",
+      "description": "Prime Minister Mark Carney signalled at the close of the APEC summit that he'd be prepared to fight an election over the upcoming federal budget — remarks that set the stage for a parliamentary showdown over the fiscal plan,",
+      "url": "https://www.cbc.ca/news/politics/carney-budget-opposition-canada-election-9.6963055",
+      "urlToImage": "https://i.cbc.ca/ais/99ae72ee-b418-4907-8292-e78d774656d6,1762000326072/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C286%2C8118%2C4566%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T13:22:21.3146544Z",
+      "content": "Prime Minister Mark Carney signalled on Saturday that hes prepared to fight an election over his governments upcoming budget should it come to that.\r\nThe fiscal plan will be tabled in the minority Pa… [+3962 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": null,
+      "title": "Google News",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXJzTXI2WWp0UGtENGx6SU9OQ1RHWnpaWmdpVm5qUmU0U0Y2N2RETEY0dXV4R2JqckpfLUdjNFN4UkU3ekIwa2Mxd052VUtnWjRwWHZRUHNQdVJJSV9TbDU2cUh5bzl1RVA4dy02aUpSWjBRWE1Tb3B3VHFsa1ZIVDBlVzBma0UwcklF",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2025-11-01T12:55:44+00:00",
+      "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Kurt Zindulka",
+      "title": "Grooming Gang Relatives Infiltrate Charities to Intimidate Victims: Report",
+      "description": "Family members of predators have attempted to infiltrate charities helping grooming gang victims to threaten women and girls seeking help.",
+      "url": "https://www.breitbart.com/europe/2025/11/01/grooming-gang-relatives-infiltrating-abuse-charities-to-intimidate-victims-report/",
+      "urlToImage": "https://media.breitbart.com/media/2025/11/GettyImages-454599686-2-640x335.jpg",
+      "publishedAt": "2025-11-01T12:36:33Z",
+      "content": "A charity supporting victims of Muslim child rape grooming gangs has revealed that family members of predators have attempted to infiltrate their ranks to threaten women and girls seeking help.\r\nWhil… [+4033 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": null,
+      "title": "Carney says he told Ontario premier not to run anti-tariff ad, apologized to Trump - CTV News",
+      "description": "<ol><li>Carney says he told Ontario premier not to run anti-tariff ad, apologized to Trump  CTV News\r\n</li><li>Trump says Carney apologized for Ford's anti-tariff ad  CBC\r\n</li><li>In Detroit, where sympathy for Canada runs high, residents are divided on Reag…",
+      "url": "https://admin.google.com/ServiceNotAllowed",
+      "urlToImage": null,
+      "publishedAt": "2025-11-01T11:49:25+00:00",
+      "content": "We are sorry, but you do not have access to Google News. Some reasons why you may not have access: \r\n<ul><li>Your account is managed by an organization that has this service turned off for its users.… [+306 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Breitbart London",
+      "title": "Ukraine Claims Strike on Moscow Pipeline That Supplies Russian Forces",
+      "description": "Ukrainian forces hit an important fuel pipeline in the Moscow region that supplies the Russian army, Ukraine's military intelligence said.",
+      "url": "https://www.breitbart.com/europe/2025/11/01/ukraine-claims-successful-strike-on-moscow-pipeline-that-supplies-russian-forces/",
+      "urlToImage": "https://media.breitbart.com/media/2025/11/GettyImages-2206414330-2-640x335.jpg",
+      "publishedAt": "2025-11-01T11:11:20Z",
+      "content": "KYIV, Ukraine (AP) – Ukrainian forces hit an important fuel pipeline in the Moscow region that supplies the Russian army, Ukraine’s military intelligence said Saturday, a claim that came amid a susta… [+2173 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": null,
+      "title": "Google News",
+      "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa183bFF5WTd0ZmVWZHg4R09hMVdhbDlSdW5EdHVaR2JudlRweWpwZlBGOTlLd01BRXBycGpWcWRyN1B1U20wSmFMWVRaamlOZ184aG04SFl0SjdQeDlhQnFtQkNpTkdvcEI2SXdCczFGelpHU1M3SG5ZNVU0dThLOGlXVnp2UmNUR1U4cXBzWjVPMzJYNHlJVTFpRHd2NEpOYVhZMHVGM2pWcHhaV2dIMXVTNll4VHZmOWJCTk5oVXJ2YXZmRFMyNUhWdm9KdVpSODVxZQ",
+      "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "publishedAt": "2025-11-01T11:00:00+00:00",
+      "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "British Voters Now More Right-Wing on Immigration Than Americans",
+      "description": "Voters across the political spectrum in the UK are more likely to hold strong views on immigration and ethnic homogeneity than Americans.",
+      "url": "https://www.breitbart.com/europe/2025/11/01/overton-window-speedrun-british-voters-now-more-right-wing-on-immigration-than-americans/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/GettyImages-2230773719-2-640x335.jpg",
+      "publishedAt": "2025-11-01T10:44:59Z",
+      "content": "British voters across the political spectrum are much more likely to hold strong views on immigration and even ethnic homogeneity than Americans, with 70 per cent of right-wing voters saying it’s bad… [+4293 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": "",
+      "title": "James Moore: 7 questions I hope will be answered in the upcoming budget - CTV News",
+      "description": "<ol><li>James Moore: 7 questions I hope will be answered in the upcoming budget  CTV News\r\n</li><li>Carney government must reduce spending to tackle deficit and strengthen economy  Fraser Institute\r\n</li><li>Carney’s budget conundrum: How to unlock business i…",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcklNd2xWZXEzSkhhMExjc3lWNUpaVmV0SFFpczNsMUNIWEVYX3NvdXc1VmRLSVJESDlfTnVtd0FtYlYwdXg5ZFF1eHYxRE41dnl5RWllY1g4TTdYdERiNUhpZmtDbUdRODY5RXlCUlphQzhyWnNFM0Y4ZVFkSEVFY3BUbEwzeDJ4ZGhnOFBjMXlxdV9rMUJJMjR2MTdEc3FfSVI4UUVHa0dUSzlwRE1LdDRmVFlud19YQk5DTzlkV0pRUDcyN0p4RUNn?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2025-11-01T09:00:00+00:00",
+      "content": "<ol><li>James Moore: 7 questions I hope will be answered in the upcoming budget  CTV News\r\n</li><li>Carney government must reduce spending to tackle deficit and strengthen economy  Fraser Institute\r\n… [+361 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": null,
+      "title": "Carney Says Canada Can’t Get China Tariffs Lifted Right Away - Bloomberg.com",
+      "description": "<ol><li>Carney Says Canada Can’t Get China Tariffs Lifted Right Away  Bloomberg.com\r\n</li><li>Chinese ambassador suggests Canada, China ‘triple’ trade with one another  CTV News\r\n</li><li>Carney says he raised foreign interference with Xi  The Globe and Mail\r…",
+      "url": "https://access.workspace.google.com/remediate",
+      "urlToImage": null,
+      "publishedAt": "2025-11-01T08:26:10+00:00",
+      "content": "<ol><li>Carney Says Canada Can’t Get China Tariffs Lifted Right Away  Bloomberg.com\r\n</li><li>Chinese ambassador suggests Canada, China ‘triple’ trade with one another  CTV News\r\n</li><li>Carney says… [+279 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "'No due process': L.A. nurse, veteran among citizens forcefully arrested by ICE amid immigration crackdown | CBC News",
+      "description": "Two U.S. citizens whose forceful arrests by ICE were caught on video say federal agents violated their constitutional rights. As backlash against the administration's escalating immigration raids grows, more than 170 U.S. citizens have been detained by immigr…",
+      "url": "http://www.cbc.ca/news/world/us-citizens-ice-arrests-detentions-9.6960504",
+      "urlToImage": "https://i.cbc.ca/ais/cd7e40d9-3742-4a36-8009-ccacb0615bc1,1761930960169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T08:07:28.5489861Z",
+      "content": "Amanda Trebach, an intensive care nurse who has been trying to keep her migrant patients safe from immigration raids, never expected American law enforcement to use the same kind of violence against … [+11456 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "L.A. Dodgers force World Series decider after defeating Toronto Blue Jays 3-1 in Game 6 | CBC Sports",
+      "description": "With a chance to clinch the World Series in Game 6 on Friday at Rogers Centre, the Toronto Blue Jays instead fell 3-1 to the Los Angeles Dodgers, setting up a decisive final contest in less than 24 hours.",
+      "url": "https://www.cbc.ca/news/canada/blue-jays-dodgers-world-series-game6-9.6959310",
+      "urlToImage": "https://i.cbc.ca/ais/854ea4bf-358a-4669-8d73-b1cb0027e76e,1761968008892/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C143%2C3154%2C1774%29%3BResize%3D620",
+      "publishedAt": "2025-11-01T03:37:17.5016503Z",
+      "content": "Its onto Game 7.\r\nWith a chance to clinch the World Series in Game 6 on Friday at Rogers Centre, the Toronto Blue Jays instead fell 3-1 to the Los Angeles Dodgers, setting up a decisive final contest… [+1295 chars]"
+    }
+  ]
+}
