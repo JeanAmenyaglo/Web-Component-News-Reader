@@ -42,22 +42,15 @@ This structure:
 
 # 🧱 **Architecture Overview (Mermaid Diagram)**
 
-```mermaid
 flowchart TD
 
     A[Developer Machine] -->|1. Build Docker Image| B[Docker Image: news-dashboard]
     B -->|2. Push Image| C[ECR Repository]
-
     C -->|3. EKS Pulls Image| D[EKS Cluster]
-
     D -->|4. Deployment Creates Pods| E[Frontend Pods Running in Kubernetes]
-
-    E -->|5. Exposed via Service| F[AWS LoadBalancer (ELB/NLB)]
-
+    E -->|5. Exposed via Service| F[AWS LoadBalancer]
     F -->|6. Public URL| G[User Browser]
-
     G -->|7. Frontend Calls API| H[NewsAPI.org]
-```
 
 This diagram shows the **exact flow** of Option A:
 
