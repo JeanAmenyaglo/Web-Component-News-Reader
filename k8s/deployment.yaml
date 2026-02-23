@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: news-frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: news-frontend
+  template:
+    metadata:
+      labels:
+        app: news-frontend
+    spec:
+      containers:
+        - name: news-frontend
+          image: 408433988572.dkr.ecr.ca-central-1.amazonaws.com/news-dashboard:latest
+          ports:
+            - containerPort: 80
